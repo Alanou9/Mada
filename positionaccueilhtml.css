@@ -1,0 +1,101 @@
+ body{
+     background-image:url(ts4-section-bg-faqs-base-game-xl.png.adapt.320w.png);
+
+
+
+ }
+
+#principal{
+     width:1000px;
+     height:1000px;
+    background-color:;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+
+#banner{
+    width:961px;
+    height:160px;
+    background-image:url(4663085421622b.gif);
+    border:5px solid red;
+    border-radius: 15px;
+
+    }
+
+
+
+
+#menu{
+    width:961px;
+    height:100px;
+
+
+}
+
+#contenug{
+    width:915px;
+    height:600px;
+    float:left;
+    border:5px solid red;
+    padding:0 20px;
+    text-align:justify;
+     background-color: black;
+     border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+ul{
+    list-style:none;
+    padding:5px;
+
+}
+
+
+a:hover{
+    background-color:;
+
+}
+
+#stopfloat{
+    clear:both;
+}
+
+
+#pieddepage{
+    width:945px;
+    height:150px;
+    background-color:#000000;
+    border:10px solid red;
+}
+
+
+#pieddpcol{
+    width:500px;
+    min-height:500px;
+    padding:0 2px;
+    float:center;
+}
+
+
+
+#pieddpcol a{
+    color:#CC0000;
+    text-decoration:none;
+}
+
+
+
+#pieddpcol a:hover{
+    background-color:;
+}
